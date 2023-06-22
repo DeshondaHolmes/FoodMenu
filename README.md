@@ -1,7 +1,7 @@
 # FoodMenu
 
 
-A webiste that allows a user to select a category from a food menu
+A website that allows a user to select a category from a food menu
 
 
 
